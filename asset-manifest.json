@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/duolingo-dupe/static/css/main.51a44ec1.css",
+    "main.js": "/duolingo-dupe/static/js/main.fb95d0a9.js",
+    "static/js/453.5b6fb600.chunk.js": "/duolingo-dupe/static/js/453.5b6fb600.chunk.js",
+    "index.html": "/duolingo-dupe/index.html",
+    "main.51a44ec1.css.map": "/duolingo-dupe/static/css/main.51a44ec1.css.map",
+    "main.fb95d0a9.js.map": "/duolingo-dupe/static/js/main.fb95d0a9.js.map",
+    "453.5b6fb600.chunk.js.map": "/duolingo-dupe/static/js/453.5b6fb600.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51a44ec1.css",
+    "static/js/main.fb95d0a9.js"
+  ]
+}
