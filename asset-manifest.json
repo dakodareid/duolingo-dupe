@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/duolingo-dupe/static/css/main.51a44ec1.css",
-    "main.js": "/duolingo-dupe/static/js/main.d37be72b.js",
+    "main.css": "/duolingo-dupe/static/css/main.58ad1299.css",
+    "main.js": "/duolingo-dupe/static/js/main.467cfe5a.js",
     "static/js/453.5b6fb600.chunk.js": "/duolingo-dupe/static/js/453.5b6fb600.chunk.js",
     "index.html": "/duolingo-dupe/index.html",
-    "main.51a44ec1.css.map": "/duolingo-dupe/static/css/main.51a44ec1.css.map",
-    "main.d37be72b.js.map": "/duolingo-dupe/static/js/main.d37be72b.js.map",
+    "main.58ad1299.css.map": "/duolingo-dupe/static/css/main.58ad1299.css.map",
+    "main.467cfe5a.js.map": "/duolingo-dupe/static/js/main.467cfe5a.js.map",
     "453.5b6fb600.chunk.js.map": "/duolingo-dupe/static/js/453.5b6fb600.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.51a44ec1.css",
-    "static/js/main.d37be72b.js"
+    "static/css/main.58ad1299.css",
+    "static/js/main.467cfe5a.js"
   ]
 }
