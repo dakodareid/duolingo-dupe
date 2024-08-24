@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import quizData from '../quizData.json';
 
+const isDevMode = process.env.REACT_APP_DEV_MODE === 'true';
+
 const SpanishLearningApp = () => {
   const [chapters, setChapters] = useState(quizData.chapters);
   const [currentChapter, setCurrentChapter] = useState(null);
@@ -158,12 +160,16 @@ const SpanishLearningApp = () => {
             </button>
           ))}
         </div>
-        <button
-          onClick={() => setDevMode(!devMode)}
-          className="mt-4 bg-gray-500 text-white px-4 py-2 rounded hover:bg-gray-600"
-        >
-          {devMode ? "Disable Dev Mode" : "Enable Dev Mode"}
-        </button>
+        {isDevMode && (
+          <div className="mt-4">
+            <button onClick={() => setShowResults(true)} className="bg-blue-500 text-white px-4 py-2 rounded mr-2">
+              Show Results
+            </button>
+            <button onClick={nextChapter} className="bg-green-500 text-white px-4 py-2 rounded">
+              Next Chapter
+            </button>
+          </div>
+        )}
       </div>
     );
   };
