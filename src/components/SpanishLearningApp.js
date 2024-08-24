@@ -56,11 +56,6 @@ const SpanishLearningApp = () => {
       [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
     }
 
-    // Limit to 1 question in dev mode
-    if (devMode) {
-      shuffled = shuffled.slice(0, 1);
-    }
-
     setChapters(prevChapters => {
       const newChapters = [...prevChapters];
       newChapters[currentChapter] = {
