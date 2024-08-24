@@ -12,6 +12,8 @@ const SpanishLearningApp = () => {
   const [shuffledOptions, setShuffledOptions] = useState([]);
   const [unlockedChapters, setUnlockedChapters] = useState([0]);
   const [chapterCompleted, setChapterCompleted] = useState(false);
+  const [chapterScores, setChapterScores] = useState({});
+  const [devMode, setDevMode] = useState(true); // Set to true for development mode
 
   useEffect(() => {
     if (chapters.length > 0 && shouldShuffle) {
@@ -27,6 +29,14 @@ const SpanishLearningApp = () => {
     }
   }, [currentChapter, currentQuestion, chapters]);
 
+  useEffect(() => {
+    console.log('Current state:', {
+      currentChapter,
+      chapterScores,
+      chapters: chapters.length
+    });
+  }, [currentChapter, chapterScores, chapters]);
+
   const shuffleArray = (array) => {
     for (let i = array.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
@@ -38,11 +48,17 @@ const SpanishLearningApp = () => {
   const shuffleQuestions = () => {
     if (chapters.length === 0 || !chapters[currentChapter]) return;
     
-    const shuffled = [...chapters[currentChapter].questions];
+    let shuffled = [...chapters[currentChapter].questions];
     for (let i = shuffled.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
     }
+
+    // Limit to 1 question in dev mode
+    if (devMode) {
+      shuffled = shuffled.slice(0, 1);
+    }
+
     setChapters(prevChapters => {
       const newChapters = [...prevChapters];
       newChapters[currentChapter] = {
@@ -57,9 +73,17 @@ const SpanishLearningApp = () => {
     setSelectedAnswer(answer);
     if (chapters.length > 0 && chapters[currentChapter] && chapters[currentChapter].questions[currentQuestion]) {
       const currentQ = chapters[currentChapter].questions[currentQuestion];
-      if (answer === currentQ.correct_answer) {
-        setScore(prevScore => prevScore + 1);
-      }
+      const isCorrect = answer === currentQ.correct_answer;
+      setScore(prevScore => prevScore + (isCorrect ? 1 : 0));
+      
+      // Update chapter scores
+      setChapterScores(prevScores => ({
+        ...prevScores,
+        [currentChapter]: [
+          ...(prevScores[currentChapter] || []),
+          isCorrect
+        ]
+      }));
     }
   };
 
@@ -90,16 +114,25 @@ const SpanishLearningApp = () => {
   };
 
   const nextChapter = () => {
-    if (currentChapter < chapters.length - 1) {
+    if (currentChapter === null) {
+      setCurrentChapter(0);
+    } else if (currentChapter < chapters.length - 1) {
       const nextChapterIndex = currentChapter + 1;
       setCurrentChapter(nextChapterIndex);
       setUnlockedChapters(prev => [...new Set([...prev, nextChapterIndex])]);
       setShouldShuffle(true);
       restartChapter();
+
+      if (nextChapterIndex === chapters.length - 1) {
+        setShowResults(true);
+      }
+    } else {
+      setShowResults(true);
     }
   };
 
   const renderHomePage = () => {
+    console.log('Rendering home page');
     return (
       <div className="max-w-md mx-auto mt-8 p-6 bg-white rounded-lg shadow-xl">
         <h2 className="text-2xl font-bold mb-4">Spanish Learning App</h2>
@@ -125,11 +158,39 @@ const SpanishLearningApp = () => {
             </button>
           ))}
         </div>
+        <button
+          onClick={() => setDevMode(!devMode)}
+          className="mt-4 bg-gray-500 text-white px-4 py-2 rounded hover:bg-gray-600"
+        >
+          {devMode ? "Disable Dev Mode" : "Enable Dev Mode"}
+        </button>
       </div>
     );
   };
 
-  if (currentChapter === null) {
+  const renderSummary = () => {
+    return (
+      <div className="max-w-md mx-auto mt-8 p-6 bg-white rounded-lg shadow-xl">
+        <h2 className="text-2xl font-bold mb-4">Quiz Summary</h2>
+        {Object.entries(chapterScores).map(([chapter, results]) => (
+          <div key={chapter} className="mb-4">
+            <h3 className="text-xl font-semibold">Chapter {parseInt(chapter) + 1}</h3>
+            <p className="text-2xl">
+              {results.map((isCorrect, index) => 
+                isCorrect ? '✅' : '❌'
+              )}
+            </p>
+          </div>
+        ))}
+      </div>
+    );
+  };
+
+  if (showResults && currentChapter === chapters.length - 1) {
+    return renderSummary();
+  }
+
+  if (currentChapter === null || currentChapter === -1) {
     return renderHomePage();
   }
 
