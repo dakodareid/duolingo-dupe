@@ -1,0 +1,409 @@
+{
+    "chapters": [
+      {
+        "chapter": 1,
+        "topic": "Most Common Verbs",
+        "questions": [
+          {
+            "question": "What does 'ser' mean?",
+            "options": ["To be", "To have", "To go", "To see"],
+            "correct_answer": "To be"
+          },
+          {
+            "question": "What does 'tener' mean?",
+            "options": ["To have", "To be", "To want", "To know"],
+            "correct_answer": "To have"
+          },
+          {
+            "question": "What does 'ir' mean?",
+            "options": ["To go", "To come", "To leave", "To run"],
+            "correct_answer": "To go"
+          },
+          {
+            "question": "What does 'hacer' mean?",
+            "options": ["To do", "To make", "To have", "To see"],
+            "correct_answer": "To do"
+          },
+          {
+            "question": "What does 'decir' mean?",
+            "options": ["To say", "To do", "To make", "To want"],
+            "correct_answer": "To say"
+          },
+          {
+            "question": "What does 'ver' mean?",
+            "options": ["To see", "To watch", "To look", "To find"],
+            "correct_answer": "To see"
+          },
+          {
+            "question": "What does 'saber' mean?",
+            "options": ["To know", "To learn", "To hear", "To say"],
+            "correct_answer": "To know"
+          },
+          {
+            "question": "What does 'querer' mean?",
+            "options": ["To want", "To need", "To ask", "To take"],
+            "correct_answer": "To want"
+          },
+          {
+            "question": "What does 'llegar' mean?",
+            "options": ["To arrive", "To leave", "To come", "To stay"],
+            "correct_answer": "To arrive"
+          },
+          {
+            "question": "What does 'poner' mean?",
+            "options": ["To put", "To take", "To bring", "To give"],
+            "correct_answer": "To put"
+          },
+          {
+            "question": "In the phrase 'Yo quiero comer', what does 'quiero' mean?",
+            "options": ["Want", "Need", "Have", "Take"],
+            "correct_answer": "Want"
+          },
+          {
+            "question": "In the phrase 'Él va al parque', what does 'va' mean?",
+            "options": ["Goes", "Comes", "Takes", "Runs"],
+            "correct_answer": "Goes"
+          },
+          {
+            "question": "In the phrase 'Nosotros somos amigos', what does 'somos' mean?",
+            "options": ["Are", "Have", "Do", "Want"],
+            "correct_answer": "Are"
+          },
+          {
+            "question": "In the phrase 'Ella tiene un perro', what does 'tiene' mean?",
+            "options": ["Has", "Wants", "Sees", "Knows"],
+            "correct_answer": "Has"
+          },
+          {
+            "question": "In the phrase 'Yo sé la respuesta', what does 'sé' mean?",
+            "options": ["Know", "See", "Want", "Have"],
+            "correct_answer": "Know"
+          }
+        ]
+      },
+      {
+        "chapter": 2,
+        "topic": "Common Types of Breakfast Food",
+        "questions": [
+          {
+            "question": "What does 'huevos' mean?",
+            "options": ["Eggs", "Bread", "Juice", "Cereal"],
+            "correct_answer": "Eggs"
+          },
+          {
+            "question": "What does 'tostadas' mean?",
+            "options": ["Toast", "Omelette", "Pancakes", "Bacon"],
+            "correct_answer": "Toast"
+          },
+          {
+            "question": "What does 'tocino' mean?",
+            "options": ["Bacon", "Sausage", "Ham", "Cheese"],
+            "correct_answer": "Bacon"
+          },
+          {
+            "question": "What does 'panqueques' mean?",
+            "options": ["Pancakes", "Waffles", "Toast", "Croissant"],
+            "correct_answer": "Pancakes"
+          },
+          {
+            "question": "What does 'jugo de naranja' mean?",
+            "options": ["Orange juice", "Apple juice", "Grape juice", "Lemonade"],
+            "correct_answer": "Orange juice"
+          },
+          {
+            "question": "What does 'avena' mean?",
+            "options": ["Oatmeal", "Cereal", "Eggs", "Yogurt"],
+            "correct_answer": "Oatmeal"
+          },
+          {
+            "question": "What does 'yogur' mean?",
+            "options": ["Yogurt", "Milk", "Juice", "Coffee"],
+            "correct_answer": "Yogurt"
+          },
+          {
+            "question": "What does 'café' mean?",
+            "options": ["Coffee", "Tea", "Juice", "Milk"],
+            "correct_answer": "Coffee"
+          },
+          {
+            "question": "What does 'cereal' mean?",
+            "options": ["Cereal", "Oatmeal", "Bread", "Eggs"],
+            "correct_answer": "Cereal"
+          },
+          {
+            "question": "What does 'fruta' mean?",
+            "options": ["Fruit", "Vegetable", "Meat", "Bread"],
+            "correct_answer": "Fruit"
+          },
+          {
+            "question": "In the phrase 'Yo como huevos', what does 'huevos' mean?",
+            "options": ["Eggs", "Bread", "Cereal", "Milk"],
+            "correct_answer": "Eggs"
+          },
+          {
+            "question": "In the phrase 'Ella toma café', what does 'café' mean?",
+            "options": ["Coffee", "Tea", "Juice", "Water"],
+            "correct_answer": "Coffee"
+          },
+          {
+            "question": "In the phrase 'Nosotros comemos panqueques', what does 'panqueques' mean?",
+            "options": ["Pancakes", "Waffles", "Toast", "Eggs"],
+            "correct_answer": "Pancakes"
+          },
+          {
+            "question": "In the phrase 'Me gusta la fruta', what does 'fruta' mean?",
+            "options": ["Fruit", "Vegetable", "Bread", "Meat"],
+            "correct_answer": "Fruit"
+          },
+          {
+            "question": "In the phrase 'Él tiene jugo de naranja', what does 'naranja' mean?",
+            "options": ["Orange", "Apple", "Grape", "Lemon"],
+            "correct_answer": "Orange"
+          }
+        ]
+      },
+      {
+        "chapter": 3,
+        "topic": "Common Dinner Foods (Including Items from Mexico and Canada)",
+        "questions": [
+          {
+            "question": "What does 'tacos' mean?",
+            "options": ["Tacos", "Burgers", "Pizza", "Fries"],
+            "correct_answer": "Tacos"
+          },
+          {
+            "question": "What does 'poutine' mean?",
+            "options": ["Poutine", "Nachos", "Tacos", "Wings"],
+            "correct_answer": "Poutine"
+          },
+          {
+            "question": "What does 'enchiladas' mean?",
+            "options": ["Enchiladas", "Quesadillas", "Burritos", "Tacos"],
+            "correct_answer": "Enchiladas"
+          },
+          {
+            "question": "What does 'salmón' mean?",
+            "options": ["Salmon", "Chicken", "Beef", "Pork"],
+            "correct_answer": "Salmon"
+          },
+          {
+            "question": "What does 'tarta de manzana' mean?",
+            "options": ["Apple pie", "Cake", "Ice cream", "Pudding"],
+            "correct_answer": "Apple pie"
+          },
+          {
+            "question": "What does 'quesadilla' mean?",
+            "options": ["Quesadilla", "Burrito", "Taco", "Enchilada"],
+            "correct_answer": "Quesadilla"
+          },
+          {
+            "question": "What does 'arroz con pollo' mean?",
+            "options": ["Rice with chicken", "Rice with beef", "Chicken salad", "Chicken soup"],
+            "correct_answer": "Rice with chicken"
+          },
+          {
+            "question": "What does 'filete' mean?",
+            "options": ["Steak", "Chicken", "Fish", "Pork"],
+            "correct_answer": "Steak"
+          },
+          {
+            "question": "What does 'frijoles' mean?",
+            "options": ["Beans", "Rice", "Potatoes", "Peas"],
+            "correct_answer": "Beans"
+          },
+          {
+            "question": "What does 'helado' mean?",
+            "options": ["Ice cream", "Cake", "Pudding", "Cookie"],
+            "correct_answer": "Ice cream"
+          },
+          {
+            "question": "In the phrase 'Me gustan los tacos', what does 'tacos' mean?",
+            "options": ["Tacos", "Burgers", "Pizza", "Fries"],
+            "correct_answer": "Tacos"
+          },
+          {
+            "question": "In the phrase 'Quiero comer poutine', what does 'poutine' mean?",
+            "options": ["Poutine", "Nachos", "Tacos", "Wings"],
+            "correct_answer": "Poutine"
+          },
+          {
+            "question": "In the phrase 'Ella come enchiladas', what does 'enchiladas' mean?",
+            "options": ["Enchiladas", "Quesadillas", "Burritos", "Tacos"],
+            "correct_answer": "Enchiladas"
+          },
+          {
+            "question": "In the phrase 'Él cocina salmón', what does 'salmón' mean?",
+            "options": ["Salmon", "Chicken", "Beef", "Pork"],
+            "correct_answer": "Salmon"
+          },
+          {
+            "question": "In the phrase 'Me encanta la tarta de manzana', what does 'tarta de manzana' mean?",
+            "options": ["Apple pie", "Cake", "Ice cream", "Pudding"],
+            "correct_answer": "Apple pie"
+          }
+        ]
+      },
+      {
+        "chapter": 4,
+        "topic": "Common Sentences/Phrases Everyone Says",
+        "questions": [
+          {
+            "question": "What does '¡Hola!' mean?",
+            "options": ["Hello", "Goodbye", "Please", "Thank you"],
+            "correct_answer": "Hello"
+          },
+          {
+            "question": "What does '¡Adiós!' mean?",
+            "options": ["Goodbye", "Hello", "Please", "Sorry"],
+            "correct_answer": "Goodbye"
+          },
+          {
+            "question": "What does 'Por favor' mean?",
+            "options": ["Please", "Thank you", "Sorry", "Excuse me"],
+            "correct_answer": "Please"
+          },
+          {
+            "question": "What does 'Gracias' mean?",
+            "options": ["Thank you", "Please", "You're welcome", "Sorry"],
+            "correct_answer": "Thank you"
+          },
+          {
+            "question": "What does 'Lo siento' mean?",
+            "options": ["I'm sorry", "I love you", "I need help", "I'm happy"],
+            "correct_answer": "I'm sorry"
+          },
+          {
+            "question": "What does 'De nada' mean?",
+            "options": ["You're welcome", "No problem", "Of course", "Sorry"],
+            "correct_answer": "You're welcome"
+          },
+          {
+            "question": "What does 'Sí' mean?",
+            "options": ["Yes", "No", "Maybe", "Please"],
+            "correct_answer": "Yes"
+          },
+          {
+            "question": "What does 'No' mean?",
+            "options": ["No", "Yes", "Maybe", "Please"],
+            "correct_answer": "No"
+          },
+          {
+            "question": "What does '¿Cómo estás?' mean?",
+            "options": ["How are you?", "Where are you?", "Who are you?", "What are you?"],
+            "correct_answer": "How are you?"
+          },
+          {
+            "question": "What does 'Muy bien, gracias' mean?",
+            "options": ["Very well, thank you", "Not bad, thank you", "I'm fine, thank you", "All good, thanks"],
+            "correct_answer": "Very well, thank you"
+          },
+          {
+            "question": "In the phrase '¡Hola!', what does it mean?",
+            "options": ["Hello", "Goodbye", "Please", "Thank you"],
+            "correct_answer": "Hello"
+          },
+          {
+            "question": "In the phrase '¡Adiós!', what does it mean?",
+            "options": ["Goodbye", "Hello", "Please", "Sorry"],
+            "correct_answer": "Goodbye"
+          },
+          {
+            "question": "In the phrase 'Por favor', what does 'favor' mean?",
+            "options": ["Favor", "Thank", "Please", "Sorry"],
+            "correct_answer": "Favor"
+          },
+          {
+            "question": "In the phrase 'Lo siento', what does 'siento' mean?",
+            "options": ["Sorry", "Love", "Need", "Help"],
+            "correct_answer": "Sorry"
+          },
+          {
+            "question": "In the phrase 'De nada', what does it mean?",
+            "options": ["You're welcome", "No problem", "Of course", "Sorry"],
+            "correct_answer": "You're welcome"
+          }
+        ]
+      },
+      {
+        "chapter": 5,
+        "topic": "Common Tourist Phrases",
+        "questions": [
+          {
+            "question": "What does '¿Dónde está el baño?' mean?",
+            "options": ["Where is the bathroom?", "Where is the exit?", "Where is the hotel?", "Where is the restaurant?"],
+            "correct_answer": "Where is the bathroom?"
+          },
+          {
+            "question": "What does '¿Cuánto cuesta?' mean?",
+            "options": ["How much does it cost?", "What is the time?", "Where is the store?", "Can I help you?"],
+            "correct_answer": "How much does it cost?"
+          },
+          {
+            "question": "What does 'Necesito ayuda' mean?",
+            "options": ["I need help", "I need water", "I need directions", "I need money"],
+            "correct_answer": "I need help"
+          },
+          {
+            "question": "What does '¿Hablas inglés?' mean?",
+            "options": ["Do you speak English?", "Can you help me?", "Where are you from?", "Do you have a map?"],
+            "correct_answer": "Do you speak English?"
+          },
+          {
+            "question": "What does 'Estoy perdido' mean?",
+            "options": ["I am lost", "I am tired", "I am hungry", "I am thirsty"],
+            "correct_answer": "I am lost"
+          },
+          {
+            "question": "What does 'La cuenta, por favor' mean?",
+            "options": ["The check, please", "The menu, please", "The bill, please", "The receipt, please"],
+            "correct_answer": "The check, please"
+          },
+          {
+            "question": "What does '¿Qué hora es?' mean?",
+            "options": ["What time is it?", "What is your name?", "Where are you going?", "How old are you?"],
+            "correct_answer": "What time is it?"
+          },
+          {
+            "question": "What does 'Una mesa para dos, por favor' mean?",
+            "options": ["A table for two, please", "A table near the window, please", "A table near the door, please", "A table near the bar, please"],
+            "correct_answer": "A table for two, please"
+          },
+          {
+            "question": "What does 'Quisiera un café, por favor' mean?",
+            "options": ["I would like a coffee, please", "I would like a tea, please", "I would like water, please", "I would like a soda, please"],
+            "correct_answer": "I would like a coffee, please"
+          },
+          {
+            "question": "What does '¿Dónde puedo encontrar un taxi?' mean?",
+            "options": ["Where can I find a taxi?", "Where can I find a bus?", "Where can I find a train?", "Where can I find a car?"],
+            "correct_answer": "Where can I find a taxi?"
+          },
+          {
+            "question": "In the phrase '¿Dónde está el baño?', what does 'baño' mean?",
+            "options": ["Bathroom", "Exit", "Hotel", "Restaurant"],
+            "correct_answer": "Bathroom"
+          },
+          {
+            "question": "In the phrase '¿Cuánto cuesta?', what does 'cuesta' mean?",
+            "options": ["Cost", "Time", "Help", "Location"],
+            "correct_answer": "Cost"
+          },
+          {
+            "question": "In the phrase 'Necesito ayuda', what does 'ayuda' mean?",
+            "options": ["Help", "Water", "Directions", "Money"],
+            "correct_answer": "Help"
+          },
+          {
+            "question": "In the phrase '¿Hablas inglés?', what does 'inglés' mean?",
+            "options": ["English", "Spanish", "French", "German"],
+            "correct_answer": "English"
+          },
+          {
+            "question": "In the phrase 'Estoy perdido', what does 'perdido' mean?",
+            "options": ["Lost", "Tired", "Hungry", "Thirsty"],
+            "correct_answer": "Lost"
+          }
+        ]
+      }
+    ]
+  }

@@ -2,406 +2,406 @@
   "chapters": [
     {
       "chapter": 1,
-      "topic": "Most Common Verbs",
+      "topic": "Conjugating 'Ser' (To Be)",
       "questions": [
         {
-          "question": "What does 'ser' mean?",
-          "options": ["To be", "To have", "To go", "To see"],
-          "correct_answer": "To be"
+          "question": "How do you say 'I am' in Spanish using 'ser'?",
+          "options": ["Soy", "Eres", "Es", "Somos"],
+          "correct_answer": "Soy"
         },
         {
-          "question": "What does 'tener' mean?",
-          "options": ["To have", "To be", "To want", "To know"],
-          "correct_answer": "To have"
+          "question": "How do you say 'You are' in Spanish using 'ser'?",
+          "options": ["Eres", "Soy", "Es", "Son"],
+          "correct_answer": "Eres"
         },
         {
-          "question": "What does 'ir' mean?",
-          "options": ["To go", "To come", "To leave", "To run"],
-          "correct_answer": "To go"
+          "question": "How do you say 'He/She/It is' in Spanish using 'ser'?",
+          "options": ["Es", "Soy", "Eres", "Somos"],
+          "correct_answer": "Es"
         },
         {
-          "question": "What does 'hacer' mean?",
-          "options": ["To do", "To make", "To have", "To see"],
-          "correct_answer": "To do"
+          "question": "How do you say 'We are' in Spanish using 'ser'?",
+          "options": ["Somos", "Son", "Soy", "Es"],
+          "correct_answer": "Somos"
         },
         {
-          "question": "What does 'decir' mean?",
-          "options": ["To say", "To do", "To make", "To want"],
-          "correct_answer": "To say"
+          "question": "How do you say 'They are' in Spanish using 'ser'?",
+          "options": ["Son", "Es", "Eres", "Somos"],
+          "correct_answer": "Son"
         },
         {
-          "question": "What does 'ver' mean?",
-          "options": ["To see", "To watch", "To look", "To find"],
-          "correct_answer": "To see"
+          "question": "What is the correct conjugation for 'ser' with 'I'?",
+          "options": ["Soy", "Es", "Son", "Somos"],
+          "correct_answer": "Soy"
         },
         {
-          "question": "What does 'saber' mean?",
-          "options": ["To know", "To learn", "To hear", "To say"],
-          "correct_answer": "To know"
+          "question": "What is the correct conjugation for 'ser' with 'You' (informal)?",
+          "options": ["Eres", "Soy", "Es", "Son"],
+          "correct_answer": "Eres"
         },
         {
-          "question": "What does 'querer' mean?",
-          "options": ["To want", "To need", "To ask", "To take"],
-          "correct_answer": "To want"
+          "question": "What is the correct conjugation for 'ser' with 'He/She/It'?",
+          "options": ["Es", "Soy", "Somos", "Son"],
+          "correct_answer": "Es"
         },
         {
-          "question": "What does 'llegar' mean?",
-          "options": ["To arrive", "To leave", "To come", "To stay"],
-          "correct_answer": "To arrive"
+          "question": "What is the correct conjugation for 'ser' with 'We'?",
+          "options": ["Somos", "Son", "Soy", "Eres"],
+          "correct_answer": "Somos"
         },
         {
-          "question": "What does 'poner' mean?",
-          "options": ["To put", "To take", "To bring", "To give"],
-          "correct_answer": "To put"
+          "question": "What is the correct conjugation for 'ser' with 'They'?",
+          "options": ["Son", "Es", "Soy", "Somos"],
+          "correct_answer": "Son"
         },
         {
-          "question": "In the phrase 'Yo quiero comer', what does 'quiero' mean?",
-          "options": ["Want", "Need", "Have", "Take"],
-          "correct_answer": "Want"
+          "question": "What does 'soy' mean?",
+          "options": ["I am", "You are", "He/She/It is", "We are"],
+          "correct_answer": "I am"
         },
         {
-          "question": "In the phrase 'Él va al parque', what does 'va' mean?",
-          "options": ["Goes", "Comes", "Takes", "Runs"],
-          "correct_answer": "Goes"
+          "question": "What does 'eres' mean?",
+          "options": ["You are", "I am", "They are", "We are"],
+          "correct_answer": "You are"
         },
         {
-          "question": "In the phrase 'Nosotros somos amigos', what does 'somos' mean?",
-          "options": ["Are", "Have", "Do", "Want"],
-          "correct_answer": "Are"
+          "question": "What does 'es' mean?",
+          "options": ["He/She/It is", "I am", "You are", "They are"],
+          "correct_answer": "He/She/It is"
         },
         {
-          "question": "In the phrase 'Ella tiene un perro', what does 'tiene' mean?",
-          "options": ["Has", "Wants", "Sees", "Knows"],
-          "correct_answer": "Has"
+          "question": "What does 'somos' mean?",
+          "options": ["We are", "I am", "You are", "They are"],
+          "correct_answer": "We are"
         },
         {
-          "question": "In the phrase 'Yo sé la respuesta', what does 'sé' mean?",
-          "options": ["Know", "See", "Want", "Have"],
-          "correct_answer": "Know"
+          "question": "What does 'son' mean?",
+          "options": ["They are", "He/She/It is", "We are", "I am"],
+          "correct_answer": "They are"
         }
       ]
     },
     {
       "chapter": 2,
-      "topic": "Common Types of Breakfast Food",
+      "topic": "Conjugating 'Tener' (To Have)",
       "questions": [
         {
-          "question": "What does 'huevos' mean?",
-          "options": ["Eggs", "Bread", "Juice", "Cereal"],
-          "correct_answer": "Eggs"
+          "question": "How do you say 'I have' in Spanish using 'tener'?",
+          "options": ["Tengo", "Tienes", "Tiene", "Tenemos"],
+          "correct_answer": "Tengo"
         },
         {
-          "question": "What does 'tostadas' mean?",
-          "options": ["Toast", "Omelette", "Pancakes", "Bacon"],
-          "correct_answer": "Toast"
+          "question": "How do you say 'You have' in Spanish using 'tener'?",
+          "options": ["Tienes", "Tengo", "Tiene", "Tenemos"],
+          "correct_answer": "Tienes"
         },
         {
-          "question": "What does 'tocino' mean?",
-          "options": ["Bacon", "Sausage", "Ham", "Cheese"],
-          "correct_answer": "Bacon"
+          "question": "How do you say 'He/She/It has' in Spanish using 'tener'?",
+          "options": ["Tiene", "Tengo", "Tienes", "Tenemos"],
+          "correct_answer": "Tiene"
         },
         {
-          "question": "What does 'panqueques' mean?",
-          "options": ["Pancakes", "Waffles", "Toast", "Croissant"],
-          "correct_answer": "Pancakes"
+          "question": "How do you say 'We have' in Spanish using 'tener'?",
+          "options": ["Tenemos", "Tienen", "Tiene", "Tengo"],
+          "correct_answer": "Tenemos"
         },
         {
-          "question": "What does 'jugo de naranja' mean?",
-          "options": ["Orange juice", "Apple juice", "Grape juice", "Lemonade"],
-          "correct_answer": "Orange juice"
+          "question": "How do you say 'They have' in Spanish using 'tener'?",
+          "options": ["Tienen", "Tiene", "Tienes", "Tenemos"],
+          "correct_answer": "Tienen"
         },
         {
-          "question": "What does 'avena' mean?",
-          "options": ["Oatmeal", "Cereal", "Eggs", "Yogurt"],
-          "correct_answer": "Oatmeal"
+          "question": "What is the correct conjugation for 'tener' with 'I'?",
+          "options": ["Tengo", "Tiene", "Tienes", "Tenemos"],
+          "correct_answer": "Tengo"
         },
         {
-          "question": "What does 'yogur' mean?",
-          "options": ["Yogurt", "Milk", "Juice", "Coffee"],
-          "correct_answer": "Yogurt"
+          "question": "What is the correct conjugation for 'tener' with 'You' (informal)?",
+          "options": ["Tienes", "Tengo", "Tiene", "Tienen"],
+          "correct_answer": "Tienes"
         },
         {
-          "question": "What does 'café' mean?",
-          "options": ["Coffee", "Tea", "Juice", "Milk"],
-          "correct_answer": "Coffee"
+          "question": "What is the correct conjugation for 'tener' with 'He/She/It'?",
+          "options": ["Tiene", "Tienes", "Tengo", "Tienen"],
+          "correct_answer": "Tiene"
         },
         {
-          "question": "What does 'cereal' mean?",
-          "options": ["Cereal", "Oatmeal", "Bread", "Eggs"],
-          "correct_answer": "Cereal"
+          "question": "What is the correct conjugation for 'tener' with 'We'?",
+          "options": ["Tenemos", "Tienen", "Tengo", "Tiene"],
+          "correct_answer": "Tenemos"
         },
         {
-          "question": "What does 'fruta' mean?",
-          "options": ["Fruit", "Vegetable", "Meat", "Bread"],
-          "correct_answer": "Fruit"
+          "question": "What is the correct conjugation for 'tener' with 'They'?",
+          "options": ["Tienen", "Tiene", "Tengo", "Tienes"],
+          "correct_answer": "Tienen"
         },
         {
-          "question": "In the phrase 'Yo como huevos', what does 'huevos' mean?",
-          "options": ["Eggs", "Bread", "Cereal", "Milk"],
-          "correct_answer": "Eggs"
+          "question": "What does 'tengo' mean?",
+          "options": ["I have", "You have", "He/She/It has", "We have"],
+          "correct_answer": "I have"
         },
         {
-          "question": "In the phrase 'Ella toma café', what does 'café' mean?",
-          "options": ["Coffee", "Tea", "Juice", "Water"],
-          "correct_answer": "Coffee"
+          "question": "What does 'tienes' mean?",
+          "options": ["You have", "I have", "They have", "We have"],
+          "correct_answer": "You have"
         },
         {
-          "question": "In the phrase 'Nosotros comemos panqueques', what does 'panqueques' mean?",
-          "options": ["Pancakes", "Waffles", "Toast", "Eggs"],
-          "correct_answer": "Pancakes"
+          "question": "What does 'tiene' mean?",
+          "options": ["He/She/It has", "I have", "You have", "They have"],
+          "correct_answer": "He/She/It has"
         },
         {
-          "question": "In the phrase 'Me gusta la fruta', what does 'fruta' mean?",
-          "options": ["Fruit", "Vegetable", "Bread", "Meat"],
-          "correct_answer": "Fruit"
+          "question": "What does 'tenemos' mean?",
+          "options": ["We have", "I have", "You have", "They have"],
+          "correct_answer": "We have"
         },
         {
-          "question": "In the phrase 'Él tiene jugo de naranja', what does 'naranja' mean?",
-          "options": ["Orange", "Apple", "Grape", "Lemon"],
-          "correct_answer": "Orange"
+          "question": "What does 'tienen' mean?",
+          "options": ["They have", "He/She/It has", "We have", "I have"],
+          "correct_answer": "They have"
         }
       ]
     },
     {
       "chapter": 3,
-      "topic": "Common Dinner Foods (Including Items from Mexico and Canada)",
+      "topic": "Conjugating 'Ir' (To Go)",
       "questions": [
         {
-          "question": "What does 'tacos' mean?",
-          "options": ["Tacos", "Burgers", "Pizza", "Fries"],
-          "correct_answer": "Tacos"
+          "question": "How do you say 'I go' in Spanish using 'ir'?",
+          "options": ["Voy", "Vas", "Va", "Vamos"],
+          "correct_answer": "Voy"
         },
         {
-          "question": "What does 'poutine' mean?",
-          "options": ["Poutine", "Nachos", "Tacos", "Wings"],
-          "correct_answer": "Poutine"
+          "question": "How do you say 'You go' in Spanish using 'ir'?",
+          "options": ["Vas", "Voy", "Va", "Vamos"],
+          "correct_answer": "Vas"
         },
         {
-          "question": "What does 'enchiladas' mean?",
-          "options": ["Enchiladas", "Quesadillas", "Burritos", "Tacos"],
-          "correct_answer": "Enchiladas"
+          "question": "How do you say 'He/She/It goes' in Spanish using 'ir'?",
+          "options": ["Va", "Voy", "Vas", "Vamos"],
+          "correct_answer": "Va"
         },
         {
-          "question": "What does 'salmón' mean?",
-          "options": ["Salmon", "Chicken", "Beef", "Pork"],
-          "correct_answer": "Salmon"
+          "question": "How do you say 'We go' in Spanish using 'ir'?",
+          "options": ["Vamos", "Van", "Va", "Voy"],
+          "correct_answer": "Vamos"
         },
         {
-          "question": "What does 'tarta de manzana' mean?",
-          "options": ["Apple pie", "Cake", "Ice cream", "Pudding"],
-          "correct_answer": "Apple pie"
+          "question": "How do you say 'They go' in Spanish using 'ir'?",
+          "options": ["Van", "Va", "Vas", "Vamos"],
+          "correct_answer": "Van"
         },
         {
-          "question": "What does 'quesadilla' mean?",
-          "options": ["Quesadilla", "Burrito", "Taco", "Enchilada"],
-          "correct_answer": "Quesadilla"
+          "question": "What is the correct conjugation for 'ir' with 'I'?",
+          "options": ["Voy", "Va", "Vas", "Vamos"],
+          "correct_answer": "Voy"
         },
         {
-          "question": "What does 'arroz con pollo' mean?",
-          "options": ["Rice with chicken", "Rice with beef", "Chicken salad", "Chicken soup"],
-          "correct_answer": "Rice with chicken"
+          "question": "What is the correct conjugation for 'ir' with 'You' (informal)?",
+          "options": ["Vas", "Voy", "Va", "Van"],
+          "correct_answer": "Vas"
         },
         {
-          "question": "What does 'filete' mean?",
-          "options": ["Steak", "Chicken", "Fish", "Pork"],
-          "correct_answer": "Steak"
+          "question": "What is the correct conjugation for 'ir' with 'He/She/It'?",
+          "options": ["Va", "Vas", "Voy", "Van"],
+          "correct_answer": "Va"
         },
         {
-          "question": "What does 'frijoles' mean?",
-          "options": ["Beans", "Rice", "Potatoes", "Peas"],
-          "correct_answer": "Beans"
+          "question": "What is the correct conjugation for 'ir' with 'We'?",
+          "options": ["Vamos", "Van", "Va", "Vas"],
+          "correct_answer": "Vamos"
         },
         {
-          "question": "What does 'helado' mean?",
-          "options": ["Ice cream", "Cake", "Pudding", "Cookie"],
-          "correct_answer": "Ice cream"
+          "question": "What is the correct conjugation for 'ir' with 'They'?",
+          "options": ["Van", "Va", "Voy", "Vas"],
+          "correct_answer": "Van"
         },
         {
-          "question": "In the phrase 'Me gustan los tacos', what does 'tacos' mean?",
-          "options": ["Tacos", "Burgers", "Pizza", "Fries"],
-          "correct_answer": "Tacos"
+          "question": "What does 'voy' mean?",
+          "options": ["I go", "You go", "He/She/It goes", "We go"],
+          "correct_answer": "I go"
         },
         {
-          "question": "In the phrase 'Quiero comer poutine', what does 'poutine' mean?",
-          "options": ["Poutine", "Nachos", "Tacos", "Wings"],
-          "correct_answer": "Poutine"
+          "question": "What does 'vas' mean?",
+          "options": ["You go", "I go", "They go", "We go"],
+          "correct_answer": "You go"
         },
         {
-          "question": "In the phrase 'Ella come enchiladas', what does 'enchiladas' mean?",
-          "options": ["Enchiladas", "Quesadillas", "Burritos", "Tacos"],
-          "correct_answer": "Enchiladas"
+          "question": "What does 'va' mean?",
+          "options": ["He/She/It goes", "I go", "You go", "They go"],
+          "correct_answer": "He/She/It goes"
         },
         {
-          "question": "In the phrase 'Él cocina salmón', what does 'salmón' mean?",
-          "options": ["Salmon", "Chicken", "Beef", "Pork"],
-          "correct_answer": "Salmon"
+          "question": "What does 'vamos' mean?",
+          "options": ["We go", "I go", "You go", "They go"],
+          "correct_answer": "We go"
         },
         {
-          "question": "In the phrase 'Me encanta la tarta de manzana', what does 'tarta de manzana' mean?",
-          "options": ["Apple pie", "Cake", "Ice cream", "Pudding"],
-          "correct_answer": "Apple pie"
+          "question": "What does 'van' mean?",
+          "options": ["They go", "He/She/It goes", "We go", "I go"],
+          "correct_answer": "They go"
         }
       ]
     },
     {
       "chapter": 4,
-      "topic": "Common Sentences/Phrases Everyone Says",
+      "topic": "Conjugating 'Hacer' (To Do/Make)",
       "questions": [
         {
-          "question": "What does '¡Hola!' mean?",
-          "options": ["Hello", "Goodbye", "Please", "Thank you"],
-          "correct_answer": "Hello"
+          "question": "How do you say 'I do/make' in Spanish using 'hacer'?",
+          "options": ["Hago", "Haces", "Hace", "Hacemos"],
+          "correct_answer": "Hago"
         },
         {
-          "question": "What does '¡Adiós!' mean?",
-          "options": ["Goodbye", "Hello", "Please", "Sorry"],
-          "correct_answer": "Goodbye"
+          "question": "How do you say 'You do/make' in Spanish using 'hacer'?",
+          "options": ["Haces", "Hago", "Hace", "Hacemos"],
+          "correct_answer": "Haces"
         },
         {
-          "question": "What does 'Por favor' mean?",
-          "options": ["Please", "Thank you", "Sorry", "Excuse me"],
-          "correct_answer": "Please"
+          "question": "How do you say 'He/She/It does/makes' in Spanish using 'hacer'?",
+          "options": ["Hace", "Hago", "Haces", "Hacemos"],
+          "correct_answer": "Hace"
         },
         {
-          "question": "What does 'Gracias' mean?",
-          "options": ["Thank you", "Please", "You're welcome", "Sorry"],
-          "correct_answer": "Thank you"
+          "question": "How do you say 'We do/make' in Spanish using 'hacer'?",
+          "options": ["Hacemos", "Hacen", "Hace", "Hago"],
+          "correct_answer": "Hacemos"
         },
         {
-          "question": "What does 'Lo siento' mean?",
-          "options": ["I'm sorry", "I love you", "I need help", "I'm happy"],
-          "correct_answer": "I'm sorry"
+          "question": "How do you say 'They do/make' in Spanish using 'hacer'?",
+          "options": ["Hacen", "Hace", "Haces", "Hacemos"],
+          "correct_answer": "Hacen"
         },
         {
-          "question": "What does 'De nada' mean?",
-          "options": ["You're welcome", "No problem", "Of course", "Sorry"],
-          "correct_answer": "You're welcome"
+          "question": "What is the correct conjugation for 'hacer' with 'I'?",
+          "options": ["Hago", "Hace", "Haces", "Hacemos"],
+          "correct_answer": "Hago"
         },
         {
-          "question": "What does 'Sí' mean?",
-          "options": ["Yes", "No", "Maybe", "Please"],
-          "correct_answer": "Yes"
+          "question": "What is the correct conjugation for 'hacer' with 'You' (informal)?",
+          "options": ["Haces", "Hago", "Hace", "Hacen"],
+          "correct_answer": "Haces"
         },
         {
-          "question": "What does 'No' mean?",
-          "options": ["No", "Yes", "Maybe", "Please"],
-          "correct_answer": "No"
+          "question": "What is the correct conjugation for 'hacer' with 'He/She/It'?",
+          "options": ["Hace", "Haces", "Hago", "Hacen"],
+          "correct_answer": "Hace"
         },
         {
-          "question": "What does '¿Cómo estás?' mean?",
-          "options": ["How are you?", "Where are you?", "Who are you?", "What are you?"],
-          "correct_answer": "How are you?"
+          "question": "What is the correct conjugation for 'hacer' with 'We'?",
+          "options": ["Hacemos", "Hacen", "Hago", "Hace"],
+          "correct_answer": "Hacemos"
         },
         {
-          "question": "What does 'Muy bien, gracias' mean?",
-          "options": ["Very well, thank you", "Not bad, thank you", "I'm fine, thank you", "All good, thanks"],
-          "correct_answer": "Very well, thank you"
+          "question": "What is the correct conjugation for 'hacer' with 'They'?",
+          "options": ["Hacen", "Hace", "Hago", "Haces"],
+          "correct_answer": "Hacen"
         },
         {
-          "question": "In the phrase '¡Hola!', what does it mean?",
-          "options": ["Hello", "Goodbye", "Please", "Thank you"],
-          "correct_answer": "Hello"
+          "question": "What does 'hago' mean?",
+          "options": ["I do/make", "You do/make", "He/She/It does/makes", "We do/make"],
+          "correct_answer": "I do/make"
         },
         {
-          "question": "In the phrase '¡Adiós!', what does it mean?",
-          "options": ["Goodbye", "Hello", "Please", "Sorry"],
-          "correct_answer": "Goodbye"
+          "question": "What does 'haces' mean?",
+          "options": ["You do/make", "I do/make", "They do/make", "We do/make"],
+          "correct_answer": "You do/make"
         },
         {
-          "question": "In the phrase 'Por favor', what does 'favor' mean?",
-          "options": ["Favor", "Thank", "Please", "Sorry"],
-          "correct_answer": "Favor"
+          "question": "What does 'hace' mean?",
+          "options": ["He/She/It does/makes", "I do/make", "You do/make", "They do/make"],
+          "correct_answer": "He/She/It does/makes"
         },
         {
-          "question": "In the phrase 'Lo siento', what does 'siento' mean?",
-          "options": ["Sorry", "Love", "Need", "Help"],
-          "correct_answer": "Sorry"
+          "question": "What does 'hacemos' mean?",
+          "options": ["We do/make", "I do/make", "You do/make", "They do/make"],
+          "correct_answer": "We do/make"
         },
         {
-          "question": "In the phrase 'De nada', what does it mean?",
-          "options": ["You're welcome", "No problem", "Of course", "Sorry"],
-          "correct_answer": "You're welcome"
+          "question": "What does 'hacen' mean?",
+          "options": ["They do/make", "He/She/It does/makes", "We do/make", "I do/make"],
+          "correct_answer": "They do/make"
         }
       ]
     },
     {
       "chapter": 5,
-      "topic": "Common Tourist Phrases",
+      "topic": "Conjugating 'Decir' (To Say)",
       "questions": [
         {
-          "question": "What does '¿Dónde está el baño?' mean?",
-          "options": ["Where is the bathroom?", "Where is the exit?", "Where is the hotel?", "Where is the restaurant?"],
-          "correct_answer": "Where is the bathroom?"
+          "question": "How do you say 'I say' in Spanish using 'decir'?",
+          "options": ["Digo", "Dices", "Dice", "Decimos"],
+          "correct_answer": "Digo"
         },
         {
-          "question": "What does '¿Cuánto cuesta?' mean?",
-          "options": ["How much does it cost?", "What is the time?", "Where is the store?", "Can I help you?"],
-          "correct_answer": "How much does it cost?"
+          "question": "How do you say 'You say' in Spanish using 'decir'?",
+          "options": ["Dices", "Digo", "Dice", "Decimos"],
+          "correct_answer": "Dices"
         },
         {
-          "question": "What does 'Necesito ayuda' mean?",
-          "options": ["I need help", "I need water", "I need directions", "I need money"],
-          "correct_answer": "I need help"
+          "question": "How do you say 'He/She/It says' in Spanish using 'decir'?",
+          "options": ["Dice", "Digo", "Dices", "Decimos"],
+          "correct_answer": "Dice"
         },
         {
-          "question": "What does '¿Hablas inglés?' mean?",
-          "options": ["Do you speak English?", "Can you help me?", "Where are you from?", "Do you have a map?"],
-          "correct_answer": "Do you speak English?"
+          "question": "How do you say 'We say' in Spanish using 'decir'?",
+          "options": ["Decimos", "Dicen", "Dice", "Digo"],
+          "correct_answer": "Decimos"
         },
         {
-          "question": "What does 'Estoy perdido' mean?",
-          "options": ["I am lost", "I am tired", "I am hungry", "I am thirsty"],
-          "correct_answer": "I am lost"
+          "question": "How do you say 'They say' in Spanish using 'decir'?",
+          "options": ["Dicen", "Dice", "Dices", "Decimos"],
+          "correct_answer": "Dicen"
         },
         {
-          "question": "What does 'La cuenta, por favor' mean?",
-          "options": ["The check, please", "The menu, please", "The bill, please", "The receipt, please"],
-          "correct_answer": "The check, please"
+          "question": "What is the correct conjugation for 'decir' with 'I'?",
+          "options": ["Digo", "Dice", "Dices", "Decimos"],
+          "correct_answer": "Digo"
         },
         {
-          "question": "What does '¿Qué hora es?' mean?",
-          "options": ["What time is it?", "What is your name?", "Where are you going?", "How old are you?"],
-          "correct_answer": "What time is it?"
+          "question": "What is the correct conjugation for 'decir' with 'You' (informal)?",
+          "options": ["Dices", "Digo", "Dice", "Dicen"],
+          "correct_answer": "Dices"
         },
         {
-          "question": "What does 'Una mesa para dos, por favor' mean?",
-          "options": ["A table for two, please", "A table near the window, please", "A table near the door, please", "A table near the bar, please"],
-          "correct_answer": "A table for two, please"
+          "question": "What is the correct conjugation for 'decir' with 'He/She/It'?",
+          "options": ["Dice", "Dices", "Digo", "Dicen"],
+          "correct_answer": "Dice"
         },
         {
-          "question": "What does 'Quisiera un café, por favor' mean?",
-          "options": ["I would like a coffee, please", "I would like a tea, please", "I would like water, please", "I would like a soda, please"],
-          "correct_answer": "I would like a coffee, please"
+          "question": "What is the correct conjugation for 'decir' with 'We'?",
+          "options": ["Decimos", "Dicen", "Digo", "Dice"],
+          "correct_answer": "Decimos"
         },
         {
-          "question": "What does '¿Dónde puedo encontrar un taxi?' mean?",
-          "options": ["Where can I find a taxi?", "Where can I find a bus?", "Where can I find a train?", "Where can I find a car?"],
-          "correct_answer": "Where can I find a taxi?"
+          "question": "What is the correct conjugation for 'decir' with 'They'?",
+          "options": ["Dicen", "Dice", "Digo", "Dices"],
+          "correct_answer": "Dicen"
         },
         {
-          "question": "In the phrase '¿Dónde está el baño?', what does 'baño' mean?",
-          "options": ["Bathroom", "Exit", "Hotel", "Restaurant"],
-          "correct_answer": "Bathroom"
+          "question": "What does 'digo' mean?",
+          "options": ["I say", "You say", "He/She/It says", "We say"],
+          "correct_answer": "I say"
         },
         {
-          "question": "In the phrase '¿Cuánto cuesta?', what does 'cuesta' mean?",
-          "options": ["Cost", "Time", "Help", "Location"],
-          "correct_answer": "Cost"
+          "question": "What does 'dices' mean?",
+          "options": ["You say", "I say", "They say", "We say"],
+          "correct_answer": "You say"
         },
         {
-          "question": "In the phrase 'Necesito ayuda', what does 'ayuda' mean?",
-          "options": ["Help", "Water", "Directions", "Money"],
-          "correct_answer": "Help"
+          "question": "What does 'dice' mean?",
+          "options": ["He/She/It says", "I say", "You say", "They say"],
+          "correct_answer": "He/She/It says"
         },
         {
-          "question": "In the phrase '¿Hablas inglés?', what does 'inglés' mean?",
-          "options": ["English", "Spanish", "French", "German"],
-          "correct_answer": "English"
+          "question": "What does 'decimos' mean?",
+          "options": ["We say", "I say", "You say", "They say"],
+          "correct_answer": "We say"
         },
         {
-          "question": "In the phrase 'Estoy perdido', what does 'perdido' mean?",
-          "options": ["Lost", "Tired", "Hungry", "Thirsty"],
-          "correct_answer": "Lost"
+          "question": "What does 'dicen' mean?",
+          "options": ["They say", "He/She/It says", "We say", "I say"],
+          "correct_answer": "They say"
         }
       ]
     }
